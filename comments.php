@@ -1,6 +1,7 @@
 <?php
 /**
  * The template for displaying comments omgggggggggggggggggg premiere modif deuxieme modification
+ * @Lucas-Chippaux tu bosses trop bien
  *
  * This is the template that displays the area of the page that contains both the current comments
  * and the comment form.
